@@ -18,3 +18,6 @@ Sources used in this project:
 4. https://www.quicknode.com/guides/web3-sdks/how-to-generate-a-new-ethereum-address-in-python
 5. https://ethereum.org/en/developers/docs/programming-languages/python/
 6. https://stackoverflow.com/questions/13370317/sqlalchemy-default-datetime
+
+Note:
+ There are two jupyter notebook files I left on purpose. I usually use JupyterNotebooks for try/error.
