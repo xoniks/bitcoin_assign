@@ -1,5 +1,7 @@
 import cryptos as cp
-
+""" The aim of this module was to extend the capability of the api for extra coins using cryptos module.
+    But it seems that the except Bitcoin`s adrresses other coins addrress is not valid in blockchain. """
+    
 coin_list = [cp.Bitcoin(),cp.BitcoinCash(),cp.Litecoin(),cp.Dash(),cp.Doge()]
 acr_coin =['btc/','bch/','ltc/','dash/','doge/']
 

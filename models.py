@@ -3,7 +3,7 @@ from database import Base
 from sqlalchemy.sql import func
 
 
-
+#create db model using sqlalchemy
 class Item(Base):
     __tablename__ = 'coins'
     id = Column(Integer, primary_key=True)
